@@ -208,7 +208,7 @@ Oracle
 
 <!-- ══════════════════ FOOTER ══════════════════ -->
 
-<h3 align="center">Thanks for visiting! 👋</h3>
+<h1 align="center">Thanks for visiting! 👋</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:312e81,50:6d28d9,100:4c1d95" width="100%" alt="" />
