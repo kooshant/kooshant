@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4c1d95,50:6d28d9,100:312e81&text=KOOSHANT%20KUMAR%20%E2%80%A2%20DATA%20ENGINEER&fontColor=ffffff&fontSize=34&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4c1d95,50:6d28d9,100:312e81&text=KOOSHANT%20KUMAR&fontColor=ffffff&fontSize=34&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
