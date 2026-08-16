@@ -40,44 +40,44 @@
 
 **Programming Languages**
 
-<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge" alt="Python" />
-<img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML-6D28D9?style=for-the-badge" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-6D28D9?style=for-the-badge" alt="CSS" />
+<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML-6D28D9?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-6D28D9?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
 
 **Data Engineering**
 
-<img src="https://img.shields.io/badge/ETL%2FELT-6D28D9?style=for-the-badge" alt="ETL/ELT" />
-<img src="https://img.shields.io/badge/Data%20Pipelines-6D28D9?style=for-the-badge" alt="Data Pipelines" />
-<img src="https://img.shields.io/badge/Apache%20Spark-6D28D9?style=for-the-badge" alt="Apache Spark" />
-<img src="https://img.shields.io/badge/PySpark-6D28D9?style=for-the-badge" alt="PySpark" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-6D28D9?style=for-the-badge" alt="Apache Airflow" />
-<img src="https://img.shields.io/badge/dbt-6D28D9?style=for-the-badge" alt="dbt" />
-<img src="https://img.shields.io/badge/Databricks-6D28D9?style=for-the-badge" alt="Databricks" />
-<img src="https://img.shields.io/badge/Data%20Warehousing-6D28D9?style=for-the-badge" alt="Data Warehousing" />
-<img src="https://img.shields.io/badge/Data%20Modeling-6D28D9?style=for-the-badge" alt="Data Modeling" />
+<img src="https://img.shields.io/badge/ETL%2FELT-6D28D9?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDdoMTJWM2w4IDYtOCA2di00SDJWN3oiLz48cGF0aCBkPSJNMjIgMTdIMTB2NGwtOC02IDgtNnY0aDEydjR6Ii8+PC9zdmc+" alt="ETL/ELT" />
+<img src="https://img.shields.io/badge/Data%20Pipelines-6D28D9?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjQiIGN5PSIxMiIgcj0iMyIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiLz48Y2lyY2xlIGN4PSIyMCIgY3k9IjEyIiByPSIzIi8+PHJlY3QgeD0iNiIgeT0iMTEiIHdpZHRoPSI0IiBoZWlnaHQ9IjIiLz48cmVjdCB4PSIxNCIgeT0iMTEiIHdpZHRoPSI0IiBoZWlnaHQ9IjIiLz48L3N2Zz4=" alt="Data Pipelines" />
+<img src="https://img.shields.io/badge/Apache%20Spark-6D28D9?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+<img src="https://img.shields.io/badge/PySpark-6D28D9?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-6D28D9?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+<img src="https://img.shields.io/badge/dbt-6D28D9?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAybDguNjYgNXYxMEwxMiAyMmwtOC42Ni01VjdMMTIgMnptMCA0LjVMNy41IDl2Nmw0LjUgMi41TDE2LjUgMTVWOUwxMiA2LjV6Ii8+PC9zdmc+" alt="dbt" />
+<img src="https://img.shields.io/badge/Databricks-6D28D9?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/Data%20Warehousing-6D28D9?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDh2NGMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zVjhjMCAxLjctMy42IDMtOCAzUzQgOS43IDQgOHoiLz48cGF0aCBkPSJNNCAxNXY0YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTN2LTRjMCAxLjctMy42IDMtOCAzcy04LTEuMy04LTN6Ii8+PC9zdmc+" alt="Data Warehousing" />
+<img src="https://img.shields.io/badge/Data%20Modeling-6D28D9?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjIiIHk9IjIiIHdpZHRoPSI4IiBoZWlnaHQ9IjYiIHJ4PSIxIi8+PHJlY3QgeD0iMTQiIHk9IjIiIHdpZHRoPSI4IiBoZWlnaHQ9IjYiIHJ4PSIxIi8+PHJlY3QgeD0iOCIgeT0iMTYiIHdpZHRoPSI4IiBoZWlnaHQ9IjYiIHJ4PSIxIi8+PHBhdGggZD0iTTUgOHYzaDE0VjhoLTJ2MUg3VjhINXoiLz48cGF0aCBkPSJNMTEgMTFoMnY1aC0yeiIvPjwvc3ZnPg==" alt="Data Modeling" />
 
 **Databases**
 
-<img src="https://img.shields.io/badge/MySQL-6D28D9?style=for-the-badge" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-6D28D9?style=for-the-badge" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-6D28D9?style=for-the-badge" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-6D28D9?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 **Data Analytics**
 
-<img src="https://img.shields.io/badge/Pandas-6D28D9?style=for-the-badge" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge" alt="NumPy" />
-<img src="https://img.shields.io/badge/Excel-6D28D9?style=for-the-badge" alt="Excel" />
-<img src="https://img.shields.io/badge/Power%20BI-6D28D9?style=for-the-badge" alt="Power BI" />
+<img src="https://img.shields.io/badge/Pandas-6D28D9?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Excel-6D28D9?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDNoMTh2MThIM1Yzem0yIDJ2M2g1VjVINXptNyAwdjNoN1Y1aC03ek01IDEwdjNoNXYtM0g1em03IDB2M2g3di0zaC03ek01IDE1djRoNXYtNEg1em03IDB2NGg3di00aC03eiIvPjwvc3ZnPg==" alt="Excel" />
+<img src="https://img.shields.io/badge/Power%20BI-6D28D9?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjMiIHk9IjEyIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iMSIvPjxyZWN0IHg9IjEwIiB5PSI3IiB3aWR0aD0iNCIgaGVpZ2h0PSIxNCIgcng9IjEiLz48cmVjdCB4PSIxNyIgeT0iMyIgd2lkdGg9IjQiIGhlaWdodD0iMTgiIHJ4PSIxIi8+PC9zdmc+" alt="Power BI" />
 
 **Developer Tools**
 
-<img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-6D28D9?style=for-the-badge" alt="Docker" />
-<img src="https://img.shields.io/badge/VS%20Code-6D28D9?style=for-the-badge" alt="VS Code" />
-<img src="https://img.shields.io/badge/PyCharm-6D28D9?style=for-the-badge" alt="PyCharm" />
+<img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-6D28D9?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/VS%20Code-6D28D9?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik05LjQgMTYuNkw0LjggMTJsNC42LTQuNkw4IDZsLTYgNiA2IDYgMS40LTEuNHptNS4yIDBsNC42LTQuNi00LjYtNC42TDE2IDZsNiA2LTYgNi0xLjQtMS40eiIvPjwvc3ZnPg==" alt="VS Code" />
+<img src="https://img.shields.io/badge/PyCharm-6D28D9?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 
 </div>
 
