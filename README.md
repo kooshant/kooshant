@@ -22,13 +22,13 @@
 
 ## About
 
-Hi there! I'm **Kooshant Kumar**, a fourth-year B.Tech Computer Science Engineering student at **GD Goenka University**, aspiring to build a career in **Data Engineering**.
+> **Hi there! I'm Kooshant Kumar** — a fourth-year B.Tech Computer Science Engineering student at **GD Goenka University**, aspiring to build a career in **Data Engineering**.
 
-My primary interests lie in designing efficient data pipelines, working with databases, and transforming raw data into meaningful insights. I am continuously improving my technical skills through hands-on projects, coding challenges, and practical learning.
+🎯 &nbsp; My primary interests lie in designing efficient data pipelines, working with databases, and transforming raw data into meaningful insights. I am continuously improving my technical skills through hands-on projects, coding challenges, and practical learning.
 
-My core technical skills include **Python, SQL, PostgreSQL, ETL, Pandas, NumPy, Git, GitHub, Data Structures & Algorithms, and Database Management Systems**. Alongside Data Engineering, I have also developed a strong foundation in **AI/ML**, which has strengthened my understanding of machine learning workflows, data-driven systems, and building intelligent applications.
+🛠️ &nbsp; My core technical skills include **Python, SQL, PostgreSQL, ETL, Pandas, NumPy, Git, GitHub, Data Structures & Algorithms, and Database Management Systems**. Alongside Data Engineering, I have also developed a strong foundation in **AI/ML**, which has strengthened my understanding of machine learning workflows, data-driven systems, and building intelligent applications.
 
-I enjoy solving real-world problems by writing clean, maintainable code and building practical solutions. I believe in continuous learning and regularly expand my knowledge by working on projects and exploring modern tools and technologies.
+🚀 &nbsp; I enjoy solving real-world problems by writing clean, maintainable code and building practical solutions. I believe in continuous learning and regularly expand my knowledge by working on projects and exploring modern tools and technologies.
 
 <br />
 
