@@ -22,26 +22,13 @@
 
 ## About
 
-I'm an **AI & Data Engineer** and a Computer Science undergraduate at **GD Goenka University**. My primary focus is Data Engineering — building reliable, scalable and practical systems with **Python, SQL, data pipelines, ETL/ELT, databases and cloud data technologies**, alongside exploring AI/ML and AI-powered data products.
+Hi there! I'm **Kooshant Kumar**, a fourth-year B.Tech Computer Science Engineering student at **GD Goenka University**, aspiring to build a career in **Data Engineering**.
 
-<table>
-<tr>
-<td width="130"><b>Focus</b></td>
-<td>Data Engineering &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; Data Pipelines</td>
-</tr>
-<tr>
-<td><b>Building</b></td>
-<td>ETL/ELT &nbsp;•&nbsp; Data Warehouses &nbsp;•&nbsp; Analytics Systems</td>
-</tr>
-<tr>
-<td><b>Exploring</b></td>
-<td>Machine Learning &nbsp;•&nbsp; AI-powered Data Products</td>
-</tr>
-<tr>
-<td><b>Open to</b></td>
-<td>Data Engineering Internships &nbsp;•&nbsp; Full-time Data Engineering Roles</td>
-</tr>
-</table>
+My primary interests lie in designing efficient data pipelines, working with databases, and transforming raw data into meaningful insights. I am continuously improving my technical skills through hands-on projects, coding challenges, and practical learning.
+
+My core technical skills include **Python, SQL, PostgreSQL, ETL, Pandas, NumPy, Git, GitHub, Data Structures & Algorithms, and Database Management Systems**. Alongside Data Engineering, I have also developed a strong foundation in **AI/ML**, which has strengthened my understanding of machine learning workflows, data-driven systems, and building intelligent applications.
+
+I enjoy solving real-world problems by writing clean, maintainable code and building practical solutions. I believe in continuous learning and regularly expand my knowledge by working on projects and exploring modern tools and technologies.
 
 <br />
 
