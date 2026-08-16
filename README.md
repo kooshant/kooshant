@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Engineer" alt="Data Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=AI+%26+Data+Engineering;Python+%7C+SQL+%7C+Data+Pipelines;Building+End-to-End+Data+Systems" alt="AI &amp; Data Engineering · Python | SQL | Data Pipelines" />
   </a>
 </p>
 
