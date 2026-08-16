@@ -1,36 +1,39 @@
-<!-- ══════════════════ HERO ══════════════════ -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:4c1d95,50:6d28d9,100:312e81&text=KOOSHANT%20KUMAR%20%E2%80%A2%20AI%20%26%20DATA%20ENGINEER&fontColor=ffffff&fontSize=32&fontAlignY=38" width="100%" alt="Kooshant Kumar — AI &amp; Data Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4c1d95,50:6d28d9,100:312e81&text=KOOSHANT%20KUMAR%20%E2%80%A2%20DATA%20ENGINEER&fontColor=ffffff&fontSize=34&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
-<h3 align="center">AI &amp; Data Engineering &nbsp;•&nbsp; Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; Data Pipelines</h3>
-
 <p align="center">
-  B.Tech Computer Science &nbsp;·&nbsp; GD Goenka University &nbsp;·&nbsp; 2023–2027 &nbsp;·&nbsp; Gurugram, India
-</p>
-
-<!-- ══════════════════ CONTACT ══════════════════ -->
-
-<p align="center">
-  <a href="mailto:kushantjangra1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kooshant Kumar" />
+  <a href="https://readme-typing-svg.demolab.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Engineer" alt="Data Engineer" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-GD%20Goenka%20University-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Tech CSE" />
+  <img src="https://img.shields.io/badge/2023--2027-4th%20Year-4C1D95?style=for-the-badge&logoColor=white" alt="2023-2027" />
+  <img src="https://img.shields.io/badge/Gurugram-Haryana%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Gurugram, Haryana, India" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/kooshant-kumar-b8193827b/">
-    <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/kooshant_kumar/">
-    <img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
+  <a href="mailto:kushantjangra1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-A78BFA?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
   <a href="https://github.com/kooshant">
-    <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kooshant&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kooshant?label=FOLLOWERS&style=for-the-badge&color=4C1D95&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kooshant?label=STARS&style=for-the-badge&color=312E81&logo=github&logoColor=white" alt="Stars" />
+</p>
+
+---
+
 
 <!-- ══════════════════ ABOUT ══════════════════ -->
 
