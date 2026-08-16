@@ -1,13 +1,10 @@
-````markdown
-# Kooshant Kumar
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4c1d95,50:6d28d9,100:312e81&text=KOOSHANT%20KUMAR%20%E2%80%A2%20DATA%20ENGINEER&fontColor=ffffff&fontSize=34&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4c1d95,50:6d28d9,100:312e81&text=KOOSHANT%20KUMAR%20%E2%80%A2%20AI%20%26%20DATA%20ENGINEER&fontColor=ffffff&fontSize=34&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Engineer" alt="Data Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+Data+Engineer;Building+Data+Pipelines;Python+%7C+SQL+%7C+PySpark;Exploring+AI+%26+Machine+Learning" alt="AI & Data Engineer" />
   </a>
 </p>
 
@@ -37,44 +34,51 @@
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I'm a **Data Engineer** focused on building reliable systems that turn raw, scattered data into something queryable, structured, and useful.
+I'm an **AI & Data Engineer** focused on building reliable data systems, scalable pipelines, and AI-powered solutions.
 
-I'm a Computer Science undergraduate at **GD Goenka University**, working primarily with **Python, SQL, data pipelines, databases, distributed data processing, and cloud technologies**. My focus is on the engineering side of data — moving, transforming, validating, and organizing information so downstream analytics and applications can depend on it.
+I'm a Computer Science undergraduate at **GD Goenka University**, currently building my skills across **Python, SQL, Data Engineering, Machine Learning, Cloud Computing, and AI**.
 
-My current stack spans **Python, SQL, Pandas, NumPy, MySQL, PostgreSQL, MongoDB, Apache Kafka, Apache Spark, PySpark, Databricks, dbt, Apache Airflow, Snowflake, AWS, Azure, Docker, Git, GitHub, and Power BI**. I also have a foundation in frontend development with HTML, CSS, and JavaScript.
+My primary focus is on the engineering side of data — collecting, transforming, validating, processing, and modeling data so that it can power analytics, applications, and intelligent systems.
 
-Alongside Data Engineering, I'm developing my understanding of **Machine Learning fundamentals** and exploring how AI can be integrated into data pipelines, automation, and intelligent products.
+I work with technologies across the modern data stack including **Python, SQL, MySQL, PostgreSQL, MongoDB, Apache Kafka, Apache Spark, PySpark, Databricks, dbt, Apache Airflow, Snowflake, AWS, Azure, Docker, Git, GitHub, and Power BI**.
 
-I approach engineering with a product mindset: build systems that are practical, maintainable, automatable, and useful beyond the initial implementation.
+Alongside Data Engineering, I'm exploring **Machine Learning, Generative AI, AI automation, and AI-powered data products**.
 
-**Open To**
+I enjoy building projects that connect **Data → Engineering → AI → Business Intelligence**.
+
+### 🚀 Currently
+
+- 🔭 Building **end-to-end Data Engineering pipelines**
+- 🌱 Learning **Apache Spark, PySpark, Airflow, Cloud & Data Warehousing**
+- 🤖 Exploring **AI/ML and Generative AI**
+- 🐍 Working primarily with **Python & SQL**
+- 📊 Building analytics solutions with **Power BI**
+- ☁️ Exploring **AWS & Azure**
+- 💡 Interested in **AI-powered data products and automation**
+
+### 🎯 Open To
+
 - Data Engineering Internships
+- AI/ML Internships
 - Full-Time Data Engineering Roles
-- AI-powered data products
-- Data pipeline and automation opportunities
+- AI Engineering Opportunities
+- Data Pipeline & Automation Projects
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js" alt="Languages" />
 </p>
 
-### Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Backend and Databases" />
+  <img src="https://img.shields.io/badge/SQL-4C1D95?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### Data Engineering
@@ -85,63 +89,84 @@ I approach engineering with a product mindset: build systems that are practical,
 
 <p>
   <img src="https://img.shields.io/badge/ETL-4C1D95?style=flat-square&logoColor=white" alt="ETL" />
-  <img src="https://img.shields.io/badge/Data%20Warehousing-5B21B6?style=flat-square&logoColor=white" alt="Data Warehousing" />
-  <img src="https://img.shields.io/badge/PySpark-6D28D9?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-5B21B6?style=flat-square&logoColor=white" alt="Data Pipelines" />
+  <img src="https://img.shields.io/badge/Data%20Warehousing-6D28D9?style=flat-square&logoColor=white" alt="Data Warehousing" />
+  <img src="https://img.shields.io/badge/PySpark-4C1D95?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Dimensional%20Modeling-5B21B6?style=flat-square&logoColor=white" alt="Dimensional Modeling" />
 </p>
 
-### Cloud / DevOps / Tooling
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
 </p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=flat-square&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Generative%20AI-4C1D95?style=flat-square&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-5B21B6?style=flat-square&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/AI%20Automation-312E81?style=flat-square&logoColor=white" alt="AI Automation" />
+</p>
+
+### Python & Data Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-312E81?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-4C1D95?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+### Cloud / DevOps / Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode,pycharm" alt="Cloud and Tools" />
+</p>
+
+### Analytics & BI
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F59E0B?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" />
 </p>
 
-### AI Tools
+### AI Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-111827?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Copilot-4C1D95?style=flat-square&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-4C1D95?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Cursor-312E81?style=flat-square&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Claude-6D28D9?style=flat-square&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Codex-5B21B6?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-</p>
-
-### Data & Python Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-4C1D95?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-312E81?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 ---
 
-## AI / ML Expertise
+## 🤖 AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Area | Level | Focus |
 |---|---|---|
-| Machine Learning Fundamentals | Familiar | Foundational understanding of machine learning concepts, workflows, model development fundamentals, and their application within data-driven systems. |
+| Machine Learning Fundamentals | Familiar | ML concepts, workflows, model development fundamentals |
+| Generative AI | Exploring | LLMs, prompt engineering, AI-powered applications |
+| AI Automation | Working Knowledge | AI-assisted workflows and automation |
+| Data + AI | Exploring | Integrating AI into data pipelines and products |
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### AI Intern — Mirai School of Technology
 
 **Jan 2026 – Feb 2026 · Gurugram, Haryana**
 
-Designed and implemented AI-driven workflows using ChatGPT and automation tools, with a focus on reducing repetitive manual work and improving workflow efficiency.
+Worked on AI-driven workflows, automation, and prompt engineering using ChatGPT and Python.
 
-- Designed AI-driven workflows using ChatGPT and automation tools, reducing manual effort by approximately **35%**.
-- Automated content generation and data-processing tasks, cutting manual effort by approximately **40%**.
-- Applied prompt engineering techniques to improve output quality and workflow efficiency.
-- Worked with Python, automation workflows, and workflow design concepts.
+- Designed AI-driven workflows using ChatGPT and automation tools.
+- Automated content generation and data-processing tasks.
+- Applied prompt engineering techniques to improve AI output quality.
+- Worked with Python, workflow automation, and AI-assisted processes.
 
 **Skills**
 
-`Prompt Engineering` `ChatGPT` `Automation` `Python` `Workflow Design`
+`Python` `ChatGPT` `Prompt Engineering` `AI Automation` `Workflow Design`
 
 ---
 
@@ -149,20 +174,20 @@ Designed and implemented AI-driven workflows using ChatGPT and automation tools,
 
 **Jul 2025 – Sep 2025 · Gurugram, Haryana**
 
-Worked on production web development with an emphasis on responsive interfaces, performance optimization, debugging, and deployment support.
+Worked on responsive web development, performance optimization, debugging, and deployment support.
 
-- Optimized website performance, reducing page load time by approximately **30%**.
-- Developed responsive user interfaces using **HTML, CSS, and JavaScript**.
-- Resolved bugs and supported deployment activities.
-- Contributed to stable production releases and deadline-driven development.
+- Developed responsive interfaces using **HTML, CSS, and JavaScript**.
+- Optimized website performance and page loading.
+- Resolved bugs and supported production deployment.
+- Contributed to stable and responsive web experiences.
 
 **Skills**
 
-`HTML` `CSS` `JavaScript` `Performance Optimization` `Responsive UI`
+`HTML` `CSS` `JavaScript` `Responsive Design` `Performance Optimization`
 
 ---
 
-## Certifications
+## 🏆 Certifications
 
 ### AWS
 
@@ -173,8 +198,6 @@ Worked on production web development with an emphasis on responsive interfaces, 
 **Data Engineering on AWS – Foundations**  
 Completed: August 14, 2026
 
----
-
 ### Oracle
 
 <p>
@@ -184,9 +207,7 @@ Completed: August 14, 2026
 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  
 September 22, 2025
 
----
-
-### Microsoft / Azure
+### Microsoft Azure
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-Computer%20Vision%20with%20Azure%20Cognitive%20Services-5B21B6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Cognitive Services" />
@@ -194,8 +215,6 @@ September 22, 2025
 
 **Build a Computer Vision App with Azure Cognitive Services**  
 Completed: January 8, 2026
-
----
 
 ### Forage
 
@@ -208,7 +227,50 @@ Completed: January 2026
 
 ---
 
-## Coding Profiles
+## 🧩 Featured Projects
+
+### 🍔 Food Order Data Engineering Pipeline
+
+**End-to-End ETL & Analytics Pipeline**
+
+`Python` `SQL` `MySQL` `ETL` `Data Warehouse` `Power BI`
+
+Building an end-to-end data engineering solution that extracts food-order data, transforms and validates it, loads it into an analytical data model, and provides business insights through Power BI.
+
+**Focus Areas**
+
+- ETL Pipeline Development
+- Data Cleaning & Transformation
+- SQL
+- Data Warehousing
+- Dimensional Modeling
+- Star Schema
+- Business Intelligence
+- Power BI
+
+---
+
+### ⚡ End-to-End Data Pipeline
+
+**Scalable Data Processing Architecture**
+
+`Python` `SQL` `PySpark` `Airflow` `Cloud`
+
+Building scalable pipelines for ingestion, transformation, validation, orchestration, and analytical workloads.
+
+---
+
+### 🤖 AI-Powered Data Applications
+
+**Data Engineering + Artificial Intelligence**
+
+`Python` `AI/ML` `Generative AI` `Automation`
+
+Exploring applications that combine structured data pipelines with AI systems to automate workflows and generate intelligent insights.
+
+---
+
+## 💻 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/kooshant_kumar/">
@@ -225,7 +287,7 @@ Completed: January 2026
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kooshant&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github&include_all_commits=false&count_private=false" height="180" alt="GitHub Stats" />
@@ -238,7 +300,7 @@ Completed: January 2026
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kooshant&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6&rank=-?&title=MultiLanguage,Commits,Repositories,PullRequest,Reviews,Followers" width="100%" alt="GitHub Trophies" />
@@ -246,7 +308,7 @@ Completed: January 2026
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kooshant&bg_color=0D0B14&color=C4B5FD&line=8B5CF6&point=A78BFA&area_color=4C1D95&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
@@ -254,7 +316,7 @@ Completed: January 2026
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kooshant/kooshant/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
@@ -262,46 +324,32 @@ Completed: January 2026
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 ```yaml
 Learning:
   - Advanced Data Engineering
   - Apache Spark
   - PySpark
-  - Cloud
+  - Apache Airflow
+  - Data Warehousing
+  - Cloud Computing
 
 Building:
-  - End-to-end data pipelines
+  - End-to-end Data Engineering Pipelines
+  - ETL & ELT Workflows
+  - Data Warehouse Projects
+  - AI-powered Data Applications
 
 Exploring:
-  - AI/ML
-  - AI-powered data products
+  - Machine Learning
+  - Generative AI
+  - LLM Applications
+  - AI Automation
+  - Data + AI Systems
 
 Open To:
-  - Data Engineering internships
-  - Full-time Data Engineering roles
-````
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:kushantjangra1234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kushantjangra1234%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/kooshant-kumar-b8193827b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kooshant%20Kumar-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kooshant">
-    <img src="https://img.shields.io/badge/GitHub-kooshant-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312e81,50:6d28d9,100:4c1d95" width="100%" />
-</p>
-```
+  - Data Engineering Internships
+  - AI/ML Internships
+  - Full-time Data Engineering Roles
+  - AI Engineering Opportunities
