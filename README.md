@@ -40,11 +40,11 @@
 
 **Programming Languages**
 
-<img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge" alt="Python" />
-<img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML-7C3AED?style=for-the-badge" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-7C3AED?style=for-the-badge" alt="CSS" />
+<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML-6D28D9?style=for-the-badge" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-6D28D9?style=for-the-badge" alt="CSS" />
 
 **Data Engineering**
 
@@ -60,24 +60,24 @@
 
 **Databases**
 
-<img src="https://img.shields.io/badge/MySQL-5B21B6?style=for-the-badge" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-5B21B6?style=for-the-badge" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-5B21B6?style=for-the-badge" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-6D28D9?style=for-the-badge" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-6D28D9?style=for-the-badge" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-6D28D9?style=for-the-badge" alt="MongoDB" />
 
 **Data Analytics**
 
-<img src="https://img.shields.io/badge/Pandas-4C1D95?style=for-the-badge" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-4C1D95?style=for-the-badge" alt="NumPy" />
-<img src="https://img.shields.io/badge/Excel-4C1D95?style=for-the-badge" alt="Excel" />
-<img src="https://img.shields.io/badge/Power%20BI-4C1D95?style=for-the-badge" alt="Power BI" />
+<img src="https://img.shields.io/badge/Pandas-6D28D9?style=for-the-badge" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge" alt="NumPy" />
+<img src="https://img.shields.io/badge/Excel-6D28D9?style=for-the-badge" alt="Excel" />
+<img src="https://img.shields.io/badge/Power%20BI-6D28D9?style=for-the-badge" alt="Power BI" />
 
 **Developer Tools**
 
-<img src="https://img.shields.io/badge/Git-312E81?style=for-the-badge" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-312E81?style=for-the-badge" alt="Docker" />
-<img src="https://img.shields.io/badge/VS%20Code-312E81?style=for-the-badge" alt="VS Code" />
-<img src="https://img.shields.io/badge/PyCharm-312E81?style=for-the-badge" alt="PyCharm" />
+<img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-6D28D9?style=for-the-badge" alt="Docker" />
+<img src="https://img.shields.io/badge/VS%20Code-6D28D9?style=for-the-badge" alt="VS Code" />
+<img src="https://img.shields.io/badge/PyCharm-6D28D9?style=for-the-badge" alt="PyCharm" />
 
 </div>
 
